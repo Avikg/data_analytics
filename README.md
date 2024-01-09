@@ -12,4 +12,4 @@ independent and dependent attribute and calculate p-values.
 4. Arrange the p values in ascending order.
 5. Identify the three most significant independent attributes that have a 
 high impact on dependent variable.
-Dataset URL : [https://ieee-dataport.org/open-access/heart-disease-datasetcomprehensive](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive)
+Dataset URL : https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
